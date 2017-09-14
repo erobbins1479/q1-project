@@ -31,22 +31,3 @@ form.addEventListener('submit', function(event) {
 function addData(numberData) {
   triviaTag.innerText = (numberData.text)
 }
-
-// var counter = 0
-//
-// function moreNames () {
-//   counter ++;
-//   var newNames = document.getElementById('roommates').cloneNode(true)
-//   newNames.id = ''
-//   newNames.style.display = 'block'
-//
-//   var newName = newNames.childNodes
-//   for (var i = 0; i < newName.length; i++) {
-//     var theName = newName[i].newName
-//     if (theName)
-//       newName[i].name = theName + counter
-//   }
-//   var insertHere = document.getElementById('writeroot');
-//   insertHere.parentNode.insertBefore(newNames,insertHere);
-// }
-// window.onload = moreNames
