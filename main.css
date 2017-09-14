@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  justify-content: center;
+  padding: 50px;
+}
+
+body {
+  background-image: url('https://source.unsplash.com/GsBgclYUDyM');
+  background-size: cover;
+  background-position: center;
+}
