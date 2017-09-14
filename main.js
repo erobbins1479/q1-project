@@ -18,7 +18,7 @@ form.addEventListener('submit', function(event) {
 
   var triviaNumber = parseInt(result)
 
-  fetch(`https://galvanize-cors.herokuapp.com/http://numbersapi.com/${triviaNumber}/trivia?json`)
+  fetch(`http://numbersapi.com/${triviaNumber}/trivia?json`)
     .then(function(response) {
       return response.json()
         .then(function(numberData) {
