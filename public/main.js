@@ -17,7 +17,6 @@ form.addEventListener('submit', function(event) {
   total.innerHTML = 'Each roomie owes: $' + result.toFixed(2)
 
   var triviaNumber = parseInt(result)
-  console.log(triviaNumber)
 
   fetch(`http://numbersapi.com/${triviaNumber}/trivia?json`)
     .then(function(response) {
