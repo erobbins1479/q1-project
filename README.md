@@ -10,8 +10,8 @@ Every month, I have to calculate the rent payments for my three roommates.  I de
 [erobbins1479.surge.sh](erobbins1479.surge.sh)
 
 ### Screenshots
-- [Screenshot of before](roomie-blank.png)
-- [Screenshot of after](roomie-filled-in.png)
+- [Screenshot of calculator before completed](roomie-blank.png)
+- [Screenshot of calculator after completed](roomie-filled-in.png)
 
 ### Link to walkthrough video
 
