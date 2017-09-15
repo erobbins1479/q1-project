@@ -7,10 +7,11 @@ Roomie Owes How Much?!
 Every month, I have to calculate the rent payments for my three roommates.  I desired an easier, more streamlined way to accomplish this.
 
 ### Where to find the deployed app
-erobbins1479.surge.sh
+[erobbins1479.surge.sh](erobbins1479.surge.sh)
 
-### Sceenshots
-
+### Screenshots
+- [Screenshot of before](roomie-blank.png)
+- [Screenshot of after](roomie-filled-in.png)
 
 ### Link to walkthrough video
 
