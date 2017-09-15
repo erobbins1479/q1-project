@@ -14,12 +14,12 @@ Every month, I have to calculate the rent payments for my three roommates.  I de
 - [Screenshot of calculator after completed](roomie-filled-in.png)
 
 ### Link to walkthrough video
-
+[Click here to see walkthrough video](https://youtu.be/-LSgmSxibrM)
 
 ### What API's you used
 Numbers API
 
 ### Features of the web app
-- Enter total rent and expense amount
-- Calculates each individual's bill
-- You receive a fact about the number that is the total of each individual's bill
+- The user enters the total rent and expense amounts
+- The app calculates what each roommate owes
+- The user receives a fact about the number that is the total of each roommate's bill
